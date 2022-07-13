@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lty4f28BaU1EzE3ayxwFnvmUwik+szCV4DHVX4dgKZMLbaDKe978zQ4LEta0uU6Pf5zVsRXSB6CIavql3FhW2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dti Digital\\Desktop\\teste\\AluraAPI\\AluraApi\\AluraApi\\AluraApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dti Digital\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dti Digital\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

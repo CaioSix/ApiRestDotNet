@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraApi", "AluraApi\AluraApi.csproj", "{011A7F4E-5A4B-476E-839A-8F2178853B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011A7F4E-5A4B-476E-839A-8F2178853B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A7F4E-5A4B-476E-839A-8F2178853B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A7F4E-5A4B-476E-839A-8F2178853B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A7F4E-5A4B-476E-839A-8F2178853B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFCD8BB-AFAE-405C-AB81-DE6298C0155D}
+	EndGlobalSection
+EndGlobal
